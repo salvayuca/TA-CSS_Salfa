@@ -1,0 +1,14 @@
+#daftar-siswa {
+    background: gainsboro;
+  }
+  
+  #daftar-siswa :first-child {
+    background: #60A5FA;
+  }
+  
+  #daftar-siswa :last-child {
+    background: #F87171;
+  }
+  #daftar-siswa p:hover {
+    background: #E5E7EB;
+  }
